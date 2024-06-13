@@ -15,8 +15,8 @@ industry.
 
 The workshop will run in 2024 over the weeks
 
-1. **Monday-Friday July 29 to August 02**
-2. **Monday-Friday August 05-09**
+1. **Monday-Friday July 29th to August 02nd**
+2. **Monday-Friday August 05th to August 09th**
 
 Classes will be 3 hours per day, 5 days per week. 
 
