@@ -13,10 +13,10 @@ The course will provide students with an introduction and exposure to key
 tools in quantitative economics that are in high demand in academia and
 industry.
 
-The workshop will run in 2024 over the weeks
+The workshop will run in 2024 over the weeks:
 
-1. **Monday-Friday July 29th to August 02nd**
-2. **Monday-Friday August 05th to August 09th**
+1. **Monday-Friday July 29th to August 2nd**
+2. **Monday-Friday August 5th to August 9th**
 
 Classes will be 3 hours per day, 5 days per week. 
 
@@ -87,7 +87,8 @@ Programming experience will be helpful but is not a prerequisite.
 
 ## Registration Details
 
-Please register through: TBD
+!!! note "Registrations from Monday 24th June"
+    Registrations will open from Monday, 24th June. This section will be updated soon.
 
 ## Contact
 
