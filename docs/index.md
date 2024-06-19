@@ -85,10 +85,11 @@ We shall strive to make classes accessible to students who want to learn Python 
 
 Programming experience will be helpful but is not a prerequisite.
 
-## Registration Details
+## Registrations from Monday 24th June 2024
 
-!!! note "Registrations from Monday 24th June"
-    Registrations will open from Monday, 24th June. This section will be updated soon.
+Registrations will open from **Monday, 24th June 2024**
+
+This section of the page will be updated with a registration link soon.
 
 ## Contact
 
