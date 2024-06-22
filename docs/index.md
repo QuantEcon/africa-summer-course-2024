@@ -89,7 +89,7 @@ Programming experience will be helpful but is not a prerequisite.
 
 <center>
 
-<button name="button" onclick="location.href='https://forms.gle/vTdD8Bp3cd8ixt656'" style="background-color: white;"><font size="14">Register Here</font></button>
+<button name="button" onclick="location.href='https://forms.gle/vTdD8Bp3cd8ixt656'" style="background-color: white;"><font size="11">Register Here</font></button>
 </center>
 
 ## Contact
