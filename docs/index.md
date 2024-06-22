@@ -89,7 +89,9 @@ Programming experience will be helpful but is not a prerequisite.
 
 Registrations will open from **Monday, 24th June 2024**
 
-<button name="button" onclick="https://forms.gle/vTdD8Bp3cd8ixt656">Register Here</button>
+<center>
+<button name="button" onclick="location.href='https://forms.gle/vTdD8Bp3cd8ixt656'" style="background-color: #157878;">Register Here</button>
+</center>
 
 ## Contact
 
