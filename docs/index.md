@@ -13,7 +13,7 @@ The course will provide students with an introduction and exposure to key
 tools in quantitative economics that are in high demand in academia and
 industry.
 
-The workshop will run in 2024 over the weeks:
+The 2024 summer course will run over the weeks:
 
 1. **Monday-Friday July 29th to August 2nd**
 2. **Monday-Friday August 5th to August 9th**
@@ -26,10 +26,10 @@ Economics at New York University, and 2011 Nobel Laureate in Economic
 Sciences.
 
 
-## How will the workshops work? 
+## How will the summer course work? 
 
 The  course will consist of a mixture of pre-recorded and (a small number of) live
-lectures.  New course videos will be released each day of the workshop, along
+lectures.  New course videos will be released each day of the summer course, along
 with exercises.
 
 Teaching assistants will run online live discussions and the organizers will
@@ -89,7 +89,7 @@ Programming experience will be helpful but is not a prerequisite.
 
 <center>
 
-<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link'" style="background-color: white;"><font size="11">Register Here</font></button>
+<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
 </center>
 
 ## Contact
