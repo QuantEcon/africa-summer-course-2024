@@ -1,10 +1,12 @@
 # QuantEcon Africa Summer Course in Quantitative Economics
 
-**Please Register by 17th of July 2024**
 
 <center>
 
 <button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
+
+**Register by 17th of July 2024**
+
 </center>
 
 The Summer Course in Quantitative Economics 2024 will be run by
