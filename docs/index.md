@@ -1,5 +1,7 @@
 # QuantEcon Africa Summer Course in Quantitative Economics
 
+> **Please Register by 17th of July 2024**
+
 The Summer Course in Quantitative Economics 2024 will be run by
 [QuantEcon](https://quantecon.org/) in partnership with the [African School of
 Economics](https://africanschoolofeconomics.com/) (ASE), and the [Institute of
@@ -25,6 +27,12 @@ Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of
 Economics at New York University, and 2011 Nobel Laureate in Economic
 Sciences.
 
+## Registrations
+
+<center>
+
+<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
+</center>
 
 ## How will the summer course work? 
 
@@ -84,13 +92,6 @@ These skills are in high demand for economists and data scientists at leading te
 We shall strive to make classes accessible to students who want to learn Python and how to use it in economics.  That said, the course material will be challenging.  Ideal candidates will already have had at least some exposure to probability, linear algebra and principles of economics, including part of an undergraduate degree in economics or computer science.  
 
 Programming experience will be helpful but is not a prerequisite.
-
-## Registrations from Monday 24th June 2024
-
-<center>
-
-<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
-</center>
 
 ## Contact
 
