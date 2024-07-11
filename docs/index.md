@@ -93,6 +93,17 @@ We shall strive to make classes accessible to students who want to learn Python 
 
 Programming experience will be helpful but is not a prerequisite.
 
+## Teaching Assistants (TAs)
+
+As part of the registration process you can express interest in being a Teaching Assistant for the summer course. Ideal candidates will have good knowledge of
+mathematics, economics, and experience in python programming. 
+
+Once registrations close on **17th July 2024** we will send further
+information to successful candidates by **19th July 2024**.
+
+We will run some 1 Hour Training Sessions the week before the summer course
+commences. 
+
 ## Registrations
 
 <center>
