@@ -1,14 +1,5 @@
 # QuantEcon Africa Summer Course in Quantitative Economics
 
-
-<center>
-
-<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
-
-</center>
-
-<p style="text-align: center;"><b>Register by 17th of July 2024</b></p>
-
 The Summer Course in Quantitative Economics 2024 will be run by
 [QuantEcon](https://quantecon.org/) in partnership with the [African School of
 Economics](https://africanschoolofeconomics.com/) (ASE), and the [Institute of
@@ -103,16 +94,6 @@ information to successful candidates by **19th July 2024**.
 
 We will run some 1 Hour Training Sessions the week before the summer course
 commences. 
-
-## Registrations
-
-<center>
-
-<button name="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf5wP-7u-CPiiWrM9dFUhVqrD14gj73eejjVS_TUILGEn-j4A/viewform?usp=sf_link   '" style="background-color: white;"><font size="11">Register Here</font></button>
-
-<p style="text-align: center;"><b>Register by 17th of July 2024</b></p>
-
-</center>
 
 ## Contact
 
