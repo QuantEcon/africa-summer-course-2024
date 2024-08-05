@@ -1,0 +1,1 @@
+- [ ] merge some pandas exercises into Day 10
